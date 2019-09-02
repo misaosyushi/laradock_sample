@@ -1,0 +1,1 @@
+LaradockでLaravelアプリを構築するためのサンプルです。
